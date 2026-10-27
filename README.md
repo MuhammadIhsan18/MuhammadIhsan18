@@ -5,13 +5,18 @@ Mahasiswa · Web Developer · Tech Enthusiast
 ## 🚀 Tentang Saya
 - 🔭 Saat ini sedang fokus pada pengembangan web (PHP, HTML).
 - 💡 Selalu terbuka untuk kolaborasi proyek IT dan pembelajaran baru.
-- 📫 Hubungi saya di: [email/LinkedIn Anda]
+- 📫 Hubungi saya di: mi0327767@gmail.com
 
 ## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
+## 📚 Proyek Akademik
+Repositori utama saya merupakan hasil pengerjaan dari mata kuliah yang telah diselesaikan:
+- **Pemrograman Web:** Implementasi praktikum dasar menggunakan HTML dan PHP.
+- **Rekayasa Perangkat Lunak (RPL):** Kolaborasi pengembangan sistem aplikasi berkelompok.
 
 ## 📊 Statistik GitHub
 <p align="left">
