@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ihsan 👋
 
-<!--
-**MuhammadIhsan18/MuhammadIhsan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa · Web Developer · Tech Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
+- 🔭 Saat ini sedang fokus pada pengembangan web (PHP, HTML).
+- 💡 Selalu terbuka untuk kolaborasi proyek IT dan pembelajaran baru.
+- 📫 Hubungi saya di: [email/LinkedIn Anda]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+## 📊 Statistik GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIhsan18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIhsan18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
